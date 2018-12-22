@@ -1,0 +1,26 @@
+{
+  "name": "serverless-websockets",
+  "version": "1.0.0",
+  "description": "Experimenting with the new plugin for the serverless framework: API gateway + websockets.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burbelohugo/serverless-websockets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burbelohugo/serverless-websockets/issues"
+  },
+  "homepage": "https://github.com/burbelohugo/serverless-websockets#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
